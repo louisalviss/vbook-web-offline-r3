@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "engine": "piper-onnx-wasm",
+  "files": [
+    {
+      "path": "/runtime/ort/ort-training-wasm-simd.wasm",
+      "bytes": 11347707
+    },
+    {
+      "path": "/runtime/ort/ort-wasm-simd-threaded.jsep.wasm",
+      "bytes": 20679899
+    },
+    {
+      "path": "/runtime/ort/ort-wasm-simd-threaded.wasm",
+      "bytes": 10684943
+    },
+    {
+      "path": "/runtime/ort/ort-wasm-simd.jsep.wasm",
+      "bytes": 18402372
+    },
+    {
+      "path": "/runtime/ort/ort-wasm-simd.wasm",
+      "bytes": 10595041
+    },
+    {
+      "path": "/runtime/ort/ort-wasm-threaded.wasm",
+      "bytes": 9841732
+    },
+    {
+      "path": "/runtime/ort/ort-wasm.wasm",
+      "bytes": 9758086
+    },
+    {
+      "path": "/runtime/piper_phonemize.wasm",
+      "bytes": 635212
+    },
+    {
+      "path": "/runtime/piper_phonemize.data",
+      "bytes": 18077249
+    }
+  ]
+}
